@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSlot.Core", "MailSlot.Core\MailSlot.Core.csproj", "{D6850C49-D139-40CB-AE85-BAF8FFB01A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSlot.WinForms", "MailSlot.WinForms\MailSlot.WinForms.csproj", "{F1F93996-632D-4876-B689-8020C65ACD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6850C49-D139-40CB-AE85-BAF8FFB01A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6850C49-D139-40CB-AE85-BAF8FFB01A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6850C49-D139-40CB-AE85-BAF8FFB01A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6850C49-D139-40CB-AE85-BAF8FFB01A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F93996-632D-4876-B689-8020C65ACD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F93996-632D-4876-B689-8020C65ACD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F93996-632D-4876-B689-8020C65ACD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F93996-632D-4876-B689-8020C65ACD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B68AF5A-B9EA-412D-9B3A-89365E3FE759}
+	EndGlobalSection
+EndGlobal
